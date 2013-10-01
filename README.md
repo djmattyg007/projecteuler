@@ -1,4 +1,4 @@
-projecteurler
+projecteuler
 =============
 
-Solvers for Project Euler problems.
+Solvers for [Project Euler](http://projecteuler.net) problems.
