@@ -7,5 +7,5 @@ for ($x = 1; $x < 1000; $x++) {
 		$sum += $x;
 	}
 }
-echo $sum;
+echo $sum . "\n";
 
